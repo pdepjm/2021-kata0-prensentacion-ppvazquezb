@@ -2,4 +2,4 @@
 
 ## Estudiante: Pedro Vazquez Berrosteguieta
 
-![mi foto](foto.jpeg)
+![mi foto](foto.jpg)
